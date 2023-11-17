@@ -32,9 +32,7 @@ The task is to implement functions on different Core JS topics. This module requ
     *   'aa',''    => 'aa'
     *   '',  'bb'  => 'bb'
     */
-   function concatenateStrings(value1, value2) {
-     throw new Error('Not implemented');
-   }
+   function concatenateStrings(value1, value2) {}
    ```
 
    Read the task description in the comment above the function. Try to understand the idea. You can see the tests prepared if you don't understand it.
@@ -49,7 +47,7 @@ The task is to implement functions on different Core JS topics. This module requ
 
    Implement the function by any way and verify your solution by running tests until the failed test become passed (green).
 
-8. Run `npm test` in command line. If everything is OK you can try to resolve the next task.
+8. Run `s` in command line. If everything is OK you can try to resolve the next task.
 
 ## Submit to [rs app](https://app.rs.school/)
 
